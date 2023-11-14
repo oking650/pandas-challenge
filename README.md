@@ -1,7 +1,4 @@
 # pandas-challenge
-<<<<<<< HEAD
-Repository containing Pandas Module 4 Code
-=======
 
 This report involved a student performance dataset from a school district containing 15 schools, ranging from District to Charter Schools. Within the Dataset, we have a collection of metrics ranging from Reading and Writing scores by Student, to School Budget and School type.
 
@@ -15,13 +12,4 @@ We then looked at student scores by grade, for both reading and writing. Based o
 
 Finally, we binned the schools into three categories: spend per student, school size, and school type. Spend per student showed that perhaps surprisingly, schools with lower spend per student had the highest test grades, and this trend maintained as spend increased by student (Image_School_Spending_Bins). For school size, we a similar trend, that smaller schools perform better, and we especially see the gap in performance from "Medium" sized schools to "Large" Schools. This further supports the idea that having more Teachers for the Student body provides Students with better teaching resources, support, and guidance in their education. For school type, it is clear the Charters schools vastly outperformed district schools across all KPI's, regardless of size or budget (Image_School_Type). This supports my hypothesis about Charter schools' incentive to demonstrate their quality and performance, and to do so, achieve high test scores with their student body.
 
-
-
-
-
-
-
-
-
->>>>>>> 60fe52a3472ed205b948fb3590ebb60b6ed1be33
 
